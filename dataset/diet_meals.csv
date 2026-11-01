@@ -1,0 +1,33 @@
+goal,food_preference,meal_time,meal_name,food_description,source_kcal,source_reference
+Fat loss,Vegetarian,06:30,Early morning,"Warm water with lemon, or black coffee / tea without sugar",5,PDF page 2
+Fat loss,Non-vegetarian,06:30,Early morning,"Warm water with lemon, or black coffee / tea without sugar",5,PDF page 2
+Fat loss,Vegetarian,08:00,Breakfast,3 idli + sambar + 1 cup sprouts salad,370,PDF page 2
+Fat loss,Non-vegetarian,08:00,Breakfast,3 idli + sambar + 2 boiled eggs,370,PDF page 2
+Fat loss,Vegetarian,11:00,Mid-morning,1 fruit (apple / guava / papaya) + 1 glass buttermilk,120,PDF page 2
+Fat loss,Non-vegetarian,11:00,Mid-morning,1 fruit (apple / guava / papaya) + 1 glass buttermilk,120,PDF page 2
+Fat loss,Vegetarian,13:00,Lunch,1 cup rice + 1 cup dal + 100 g paneer or soya curry + 1 cup veg poriyal + salad,550,PDF page 2
+Fat loss,Non-vegetarian,13:00,Lunch,1 cup rice + 100 g chicken or fish curry + 1 cup veg poriyal + salad + 1/2 cup curd,550,PDF page 2
+Fat loss,Vegetarian,16:30,Evening snack,1 cup roasted chana or sprouts + tea without sugar,150,PDF page 2
+Fat loss,Non-vegetarian,16:30,Evening snack,1 cup roasted chana or sprouts + tea without sugar,150,PDF page 2
+Fat loss,Vegetarian,20:00,Dinner,2 chapati + 100 g grilled paneer or soya + sabzi + salad,480,PDF page 2
+Fat loss,Non-vegetarian,20:00,Dinner,2 chapati + 100 g grilled chicken or fish + sabzi + salad,480,PDF page 2
+Muscle gain,Vegetarian,07:30,Breakfast,4 idli + sambar + 100 g paneer bhurji + 1 banana,600,PDF page 3
+Muscle gain,Non-vegetarian,07:30,Breakfast,4 idli + sambar + 3 whole eggs + 1 banana,600,PDF page 3
+Muscle gain,Vegetarian,10:30,Mid-morning,1 glass milk + 30 g peanuts or almonds,300,PDF page 3
+Muscle gain,Non-vegetarian,10:30,Mid-morning,1 glass milk + 30 g peanuts or almonds,300,PDF page 3
+Muscle gain,Vegetarian,13:30,Lunch,1.5 cups rice + 1 cup dal + 100 g soya or paneer curry + veg + 1 cup curd,750,PDF page 3
+Muscle gain,Non-vegetarian,13:30,Lunch,1.5 cups rice + 150 g chicken or fish curry + veg + 1 cup curd,750,PDF page 3
+Muscle gain,Vegetarian,17:00,Evening snack,"Banana + 2 tbsp peanut butter on bread, or 1 cup sprouts",300,PDF page 3
+Muscle gain,Non-vegetarian,17:00,Evening snack,Banana + 2 boiled eggs,300,PDF page 3
+Muscle gain,Vegetarian,20:30,Dinner,3 chapati + 100 g paneer or soya + dal or sabzi + 1 glass milk,650,PDF page 3
+Muscle gain,Non-vegetarian,20:30,Dinner,3 chapati + 150 g chicken or fish + sabzi,650,PDF page 3
+General weight gain,Vegetarian,07:30,Breakfast,3 dosa with ghee + sambar + 1 glass whole milk + 1 banana,700,PDF page 4
+General weight gain,Non-vegetarian,07:30,Breakfast,3 dosa with ghee + sambar + 2 egg omelette + 1 glass milk + 1 banana,700,PDF page 4
+General weight gain,Vegetarian,10:30,Mid-morning,Banana milkshake with 2 dates and 5 almonds,400,PDF page 4
+General weight gain,Non-vegetarian,10:30,Mid-morning,Banana milkshake with 2 dates and 5 almonds,400,PDF page 4
+General weight gain,Vegetarian,13:30,Lunch,1.5 cups rice + 1 cup dal + 100 g paneer curry + veg + 1 cup curd,850,PDF page 4
+General weight gain,Non-vegetarian,13:30,Lunch,1.5 cups rice + 150 g chicken or fish curry + 1/2 cup dal + veg + 1 cup curd,850,PDF page 4
+General weight gain,Vegetarian,17:00,Evening snack,"30 g peanuts + 2 dates, or peanut chikki + 1 glass milk",350,PDF page 4
+General weight gain,Non-vegetarian,17:00,Evening snack,2 boiled eggs + 1 banana,350,PDF page 4
+General weight gain,Vegetarian,20:30,Dinner,3 chapati with ghee + 100 g paneer + sabzi + curd,700,PDF page 4
+General weight gain,Non-vegetarian,20:30,Dinner,3 chapati with ghee + 150 g chicken or fish + sabzi,700,PDF page 4
